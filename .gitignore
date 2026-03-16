@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg
+.env
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Packet Tracer backup files
+*.bak
+*.pkt.autosave
+
+# Exported JSON from scripts
+vlan_export_*.json
+
+# IDE
+.vscode/
+.idea/
